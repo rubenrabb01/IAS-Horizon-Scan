@@ -1,6 +1,6 @@
 # Flowchart 1 
 
-<p align="center"><img src="/Images/Horizon_Scanning_Mermaid_flowchart - Jupyter Notebook.png?raw=true"></p>
+<p align="center"><img src="/images/Horizon_Scanning_Mermaid_flowchart_Jupyter_Notebook.png?raw=true"></p>
 
 # Flowchart 2
 
