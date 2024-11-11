@@ -1,3 +1,7 @@
+# NLP Model of Youtube data
+
+<p align="center"><img src="/images/NLP_Model_YT.jpg?raw=true"></p>
+
 # Text analysis of YouTube data
 
 <p align="center"><img src="/images/YT_Topic_Analysis_Taxa_1.jpg?raw=true"></p>
